@@ -4,7 +4,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
   title: 'Elite Phones',
-  description: 'Celulares premium – minimal, profesional',
+  description: 'Celulares premium – profesional',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
